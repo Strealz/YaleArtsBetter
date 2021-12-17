@@ -1,5 +1,5 @@
-# YaleArtsBetter
-Making an unofficial website for Yale School of Arts because I feel like it, and because of how bad it is.
+# YaleArtBetter
+Making an unofficial website for Yale School of Arts because I feel like it.
 ----------------------------------
 What you can do on this website:
 look at it.
