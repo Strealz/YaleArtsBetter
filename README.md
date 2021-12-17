@@ -12,7 +12,7 @@ look at it.
 
 
 
-(Incase you couldnt tell, I find it extremely funny that an art school has a website that looks this bad.)
+(Incase you couldnt tell, I find it extremely funny that an art school has a website that looks as bad as it does.)
 
 
 
